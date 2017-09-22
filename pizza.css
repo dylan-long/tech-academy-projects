@@ -1,0 +1,30 @@
+h1 {
+	text-align:center;
+}
+
+.menu-container {
+    margin: 0% auto;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 25px;
+	border: solid black;
+}
+
+.menu {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	border: solid black;
+	margin: 10px;
+	padding: 2px;
+	width: 250px;
+	display: inline-block;
+	
+	
+	
+}
+
